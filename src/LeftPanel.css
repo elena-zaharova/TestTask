@@ -1,0 +1,68 @@
+.LeftPanel{
+    background-color: #cccccc;
+    float: left;
+    height: 100vh;
+    width: 350px;
+}
+
+.Shapes{
+    margin: 80px 10px;
+    width: 300px;
+    height: 100px;
+}
+
+.Style{
+    margin: 80px 10px;
+    display: block;
+    text-align: center;
+}
+
+input{
+    border-width: 0px;
+    background: #818181;
+    width: 70px;
+}
+
+.form{
+    margin: 30px;
+}
+
+label{
+    font-size: large;
+    color: #898989;
+    margin: 0 30px;
+    float: left;
+}
+
+.Shape{
+    margin: 50px;
+    width: 250px;
+    display: block;
+    text-align: center;
+}
+
+.Rectangle{
+    width: 100px;
+    float: left;
+}
+
+#Rectangle{
+    width: 100px;
+    height: 50px;
+    background: #ffffff;
+    border: solid 2px #838383;
+}
+
+.Triangle{
+    width: 100px;
+    float: right;
+}
+
+#Triangle{
+    width: 100px;
+    height: 50px;
+    fill: #ffffff;
+    stroke: #838383;
+    stroke-width: 2px;
+}
+

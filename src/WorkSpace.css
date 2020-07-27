@@ -1,0 +1,32 @@
+.WorkSpace{
+    background-color: #efefef;
+    width: 100%;
+    height: 100vh;
+}
+
+.RectangleFigure{
+    width: 200px;
+    height: 100px;
+    fill: #ffe600;
+    cursor: pointer;
+    position: absolute;
+    z-index: 1000;
+    left: 55%;
+    top: 40%;
+}
+
+.TriangleFigure{
+    width: 200px;
+    height: 100px;
+    fill: #ef9106;
+    cursor: pointer;
+    position: absolute;
+    z-index: 1000;
+    left: 55%;
+    top: 40%;
+}
+
+polygon{
+    width: 200px;
+    height: 100px;
+}
